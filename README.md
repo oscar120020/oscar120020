@@ -1,58 +1,70 @@
 <h1 align="center">Hola 👋, soy Oscar Martínez</h1>
-<h3 align="center">Full Stack Developer | React & Node.js | Apasionado por la IA</h3>
+<h3 align="center">Full Stack Developer | React ⚛️ | Node.js 🚀 | NestJS ⚡ | TypeScript 🧠</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar--martínez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:oscarmiguel12002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-🌍 Desde **República Dominicana**, trabajando remoto con equipos globales.  
-💻 Actualmente usando **NestJS**, **React**, **PostgreSQL**, y explorando **IA aplicada al desarrollo web**.  
-🚀 Me apasiona construir productos escalables y con impacto real.  
-📚 Aprendiendo sobre inteligencia artificial, DevOps y arquitecturas distribuidas.  
+### 🧠 Sobre mí
+
+- 💻 Apasionado por la creación de soluciones web robustas, escalables y modernas.
+- 🚀 Con más de 5 años de experiencia desarrollando desde APIs hasta interfaces interactivas.
+- 🧰 Experto en **React**, **NestJS**, **Node.js**, **TypeScript**, y **PostgreSQL**.
+- 🔍 Me encanta optimizar código, implementar arquitectura limpia y aprender nuevas tecnologías.
+- 🤖 Interesado en la inteligencia artificial, automatización y SaaS.
+- 🌍 Actualmente construyendo herramientas web y explorando nuevas ideas.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,ts,js,html,css,postgres,docker,git,github,figma" />
-</div>
+### 🛠️ Tecnologías que uso
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Herramientas & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscar120020&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscar120020&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscar120020&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscar120020&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar120020&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🧠 Mis intereses actuales
-
-- ✨ Desarrollar productos que integren IA (Copilot, GPT APIs, etc.)
-- 🔄 Arquitectura backend basada en eventos (Redis, BullMQ, microservicios)
-- 📦 Mejores prácticas de diseño de APIs y Clean Architecture
-- 💬 Participar en comunidades tech para compartir conocimiento
+### 🌱 Actualmente aprendiendo
+- 🧠 IA aplicada al desarrollo web
+- 🕸️ WebSockets con NestJS
+- 📦 Arquitecturas distribuidas y microservicios
 
 ---
 
-### 📫 Conéctate conmigo
-
-<p>
-  <a href="mailto:oscarmiguel12002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/oscar--martínez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/oscar120020"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 🤝 ¡Conectemos!
+Estoy abierto a colaboraciones, freelance o simplemente compartir ideas. Si tienes un proyecto interesante, ¡hablemos!
 
 ---
 
-### 🧩 Proyectos destacados
-
-- 🔧 [Load Balancer Custom - NestJS + TypeScript](https://github.com/oscar120020/...)  
-- 🧠 [IA Chat Assistant Local + Offline](https://github.com/oscar120020/...)  
-- 🏗️ [Sistema de Rentas con NestJS + Next.js (SaaS style)](https://github.com/oscar120020/...)  
-
----
-
-> _"El código limpio es como la poesía: dice mucho con pocas líneas."_  
-> &mdash; Oscar M.
-
+> "La mejor manera de predecir el futuro es crearlo." – Alan Kay
