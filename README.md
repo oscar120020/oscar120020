@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Oscar Martínez</h1>
-<h3 align="center">Full Stack Developer | React ⚛️ | Node.js 🚀 | NestJS ⚡ | TypeScript 🧠</h3>
+<h3 align="center">Full Stack Developer | React ⚛️ | Angular 🔺 | Node.js 🚀 | NestJS ⚡ | TypeScript 🧠</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar--martínez/" target="_blank">
@@ -16,8 +16,9 @@
 
 - 💻 Apasionado por la creación de soluciones web robustas, escalables y modernas.
 - 🚀 Con más de 5 años de experiencia desarrollando desde APIs hasta interfaces interactivas.
-- 🧰 Experto en **React**, **NestJS**, **Node.js**, **TypeScript**, y **PostgreSQL**.
+- 🧰 Experto en **React**, **Angular**, **NestJS**, **Node.js**, **TypeScript** y **PostgreSQL**.
 - 🔍 Me encanta optimizar código, implementar arquitectura limpia y aprender nuevas tecnologías.
+- ☁️ Familiarizado con servicios en la nube como **AWS** para escalar soluciones.
 - 🤖 Interesado en la inteligencia artificial, automatización y SaaS.
 - 🌍 Actualmente construyendo herramientas web y explorando nuevas ideas.
 
@@ -31,9 +32,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -49,16 +52,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscar120020&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar12002" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar12002&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar120020&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🌱 Actualmente aprendiendo
-- 🧠 IA aplicada al desarrollo web
-- 🕸️ WebSockets con NestJS
-- 📦 Arquitecturas distribuidas y microservicios
+- 🐇 **RabbitMQ** para procesamiento asíncrono y colas de mensajes.
+- 🤖 IA aplicada al desarrollo web.
+- 📦 Arquitecturas distribuidas y microservicios.
 
 ---
 
