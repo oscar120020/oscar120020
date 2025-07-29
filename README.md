@@ -59,7 +59,7 @@
 ---
 
 ### 🌱 Actualmente aprendiendo
-- 🐇 **RabbitMQ** para procesamiento asíncrono y colas de mensajes.
+- 🐇 **RabbitMQ y Kafka** para procesamiento asíncrono y colas de mensajes.
 - 🤖 IA aplicada al desarrollo web.
 - 📦 Arquitecturas distribuidas y microservicios.
 
