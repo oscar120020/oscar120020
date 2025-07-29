@@ -48,13 +48,13 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscar120020&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar12002&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar120020&layout=compact&theme=radical" />
-</p>
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar120020&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar120020&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscar120020&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
